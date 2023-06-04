@@ -9,6 +9,9 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
+  1. pass the word into palindrome function
+  2. split, reverse and then join the word to make reverse of it
+  3. compare the two words
 */
 
 /*
